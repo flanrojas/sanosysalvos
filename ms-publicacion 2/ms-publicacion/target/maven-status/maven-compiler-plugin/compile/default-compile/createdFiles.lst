@@ -1,0 +1,6 @@
+com/sanosysalvos/ms_publicacion/config/OpenApiConfig.class
+com/sanosysalvos/ms_publicacion/model/Publicacion.class
+com/sanosysalvos/ms_publicacion/service/PublicacionService.class
+com/sanosysalvos/ms_publicacion/repository/PublicacionRepository.class
+com/sanosysalvos/ms_publicacion/controller/PublicacionController.class
+com/sanosysalvos/ms_publicacion/MsPublicacionApplication.class
